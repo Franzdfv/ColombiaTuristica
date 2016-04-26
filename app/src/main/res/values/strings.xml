@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ColombiaTuristica</string>
+    <string name="montelibano">MONTELIBANO</string>
+    <string name="bienvenidos">"BIENVENIDOS A LA CAPITAL NIQUELERA DE AMERICA"</string>
+    <string name="hoteles">HOTELES</string>
+    <string name="monare">HOTEL MONARE</string>
+    <string name="datosmonare">Dirección: carrera 5 #19-10, Barrio Centro, Telefono: (4)7721747, Correo: hotelmonare@hotmail.com </string>
+    <string name="betocca">HOTEL BETOCCA</string>
+    <string name="datosbetocca">Dirección: carrera 5 #14-106, Barrio Centro, Telefono: (4)7625497</string>
+    <string name="montelibanoplaza">HOTEL MONTELIBANO PLAZA</string>
+    <string name="datosmontelibanoplaza">Dirección: carrera 4 #19-60, Telefono: (4)7720280</string>
+    <string name="bares">BARES</string>
+    <string name="marianamen">MARIANAMEN BAR</string>
+    <string name="datosmarianamen">Dierección: calle 16 carrera 12, Barrio San Luis</string>
+    <string name="palmacaoba">PALMACAOBA BAR</string>
+    <string name="datospalmacaoba">Dirección: calle 18 carrera 13, Avenida los estudiantes, Barrio San Luis</string>
+    <string name="bluemoon">BLUE MOON BAR</string>
+    <string name="datosbluemoon">Dirección: calle 14 carrera 13, Avenida los estudiantes, Barrio Tierra Grata</string>
+    <string name="sitiosturisticos">SITIOS TURISTICOS</string>
+    <string name="iglesiaermita">IGLESIA ERMITA</string>
+    <string name="datosiglesiaermita">Dirección: Calle 17 Carrera 4ta, Barrio Centro</string>
+    <string name="parquelacruz">PARQUE LA CRUZ</string>
+    <string name="datosparquelacruz">Antiguo parque Simon Bolivar, Ubicada en el centro de la ciudad</string>
+    <string name="parqueecologico">PARQUE ECOLOGICO</string>
+    <string name="datosparqueecologico">Dirección: ubicado en la vía troncal hacia Cerro Matoso</string>
+    <string name="demografia">DEMOGRAFÍA</string>
+    <string name="datosdemografia">Población: 69277 Habitantes, Densidad de la población: 38.5/Km2</string>
+    <string name="diseñador">APLICACIÓN CREADA POR:</string>
+    <string name="datosdiseñador">FRANZ FONSECA VILLALOBOS, Cédula: 1066570790</string>
+
+</resources>

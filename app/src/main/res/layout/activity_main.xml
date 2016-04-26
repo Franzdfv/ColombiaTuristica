@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="mainactivity.franzfonseca.com.colombiaturistica.MainActivity"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:weightSum="1"
+    android:background="#05fd22">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/montelibano"
+        android:textSize="45sp"
+        android:textColor="#f30606"
+        android:gravity="center" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bienvenidos"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:layout_weight="0.74"
+        android:textColor="#5428a5" />
+
+
+</LinearLayout>

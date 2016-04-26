@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColombiaTuristica</string>
+    <string name="bares">BARS</string>
+    <string name="betocca">BETOCCA HOTEL</string>
+    <string name="bienvenidos">WELCOME TO THE CAPITAL NIQUELERA OF AMERICA</string>
+    <string name="bluemoon">BLUE MOON BAR</string>
+    <string name="datosbetocca">Address: Career 5 #14-106, Neighborhood center, Phone: (4)7625497</string>
+    <string name="datosbluemoon">Address: Street14 career 13, Avenue students,Neighborhood  Tierra Grata</string>
+    <string name="datosdemografia">Population: 69277 Habitants, Density of population: 38.5/Km2</string>
+    <string name="datosdiseñador">FRANZ FONSECA VILLALOBOS, I.D: 1066570790</string>
+    <string name="datosiglesiaermita">Address: Street 17 Career 4ta, Neighborhood  center</string>
+    <string name="datosmarianamen">Address: Street 16 career 12,  Neighborhood San Luis </string>
+    <string name="datosmonare">Address: career 5 #19-10, Neighborhood Center, Phone: (4)7721747, E-mail: hotelmonare@hotmail.com</string>
+    <string name="datosmontelibanoplaza">Address: career 4 #19-60, Phone: (4)7720280</string>
+    <string name="datospalmacaoba">Address: Street 18 career 13, Avenue students, Neighborhood San Luis</string>
+    <string name="datosparqueecologico">Address: Located on the trunk route to Cerro Matoso</string>
+    <string name="datosparquelacruz">Old Simon Bolivar Park, Located in the city center </string>
+    <string name="demografia">DEMOGRAPHY</string>
+    <string name="diseñador">APPLICATION CREATED BY:</string>
+    <string name="hoteles">HOTELS</string>
+    <string name="iglesiaermita">HERMITAGE CHURCH</string>
+    <string name="marianamen">MARIANAMEN BAR</string>
+    <string name="monare">MONARE HOTEL </string>
+    <string name="montelibano">MONTELIBANO</string>
+    <string name="montelibanoplaza">MONTELIBANO PLAZA HOTEL </string>
+    <string name="palmacaoba">PALMACAOBA BAR</string>
+    <string name="parqueecologico">ECOLOGICAL PARK </string>
+    <string name="parquelacruz">PARK THE CROSS</string>
+    <string name="sitiosturisticos">TOURIST SITES</string>
+</resources>

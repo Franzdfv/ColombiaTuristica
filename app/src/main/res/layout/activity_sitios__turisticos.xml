@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="mainactivity.franzfonseca.com.colombiaturistica.Hoteles"
+    android:orientation="vertical"
+    android:background="#05fd22"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sitiosturisticos"
+        android:textSize="45sp"
+        android:textColor="#f30606"
+        android:gravity="center" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/iglesiaermita"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:layout_weight="0.32"
+            android:textColor="#08146d" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/datosiglesiaermita"
+            android:textSize="20sp"
+            android:textColor="#153a71" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/parquelacruz"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:textColor="#152470" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/datosparquelacruz"
+            android:textSize="20sp"
+            android:textColor="#12256c" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/parqueecologico"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:layout_weight="3.24"
+            android:textColor="#132268" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/datosparqueecologico"
+            android:textSize="20sp"
+            android:layout_weight="0.22"
+            android:textColor="#181370" />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
